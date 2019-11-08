@@ -55,11 +55,10 @@
         tools:layout_editor_absoluteY="489dp" />
 
     <ImageView
-        android:id="@+id/imagenview"
+        android:id="@+id/ic_sidweb"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="C:\Users\Estudiante\Desktop\Leccion1"
-        tools:layout_editor_absoluteX="101dp"
-        tools:layout_editor_absoluteY="16dp" />
+        android:contentDescription="@string/todo" />
 
+    
 </androidx.constraintlayout.widget.ConstraintLayout>
