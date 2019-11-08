@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">amst_l1_Navas_espolservicios</string>
+    <string name="bienvenido_a_los_servicios_de_espol">Bienvenido a los Servicios de Espol</string>
+    <string name="sidweb">Sidweb</string>
+    <string name="academico">Academico</string>
+    <string name="vinculos">Vinculos</string>
+    <string name="bienestar">Bienestar</string>
+</resources>
